@@ -1,6 +1,6 @@
 # whatsappui
 
-A Flutter project for WhatsApp UI.
+A Flutter project for WhatsApp Chat Screen UI.
 
 Screenshot
 
